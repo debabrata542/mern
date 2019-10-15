@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://debabrata542:Rintu@542@cluster0-yqw0e.mongodb.net/mern-heroku?retryWrites=true&w=majority",
+  "jwtSecret": "sl_myJwtSecret"
+}
