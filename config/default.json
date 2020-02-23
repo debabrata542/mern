@@ -1,4 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://debabrata542:Rintu@542@cluster0-yqw0e.mongodb.net/mern-heroku?retryWrites=true&w=majority",
+  "mongoURI": "ATLAS_URI=mongodb://127.0.0.1:27017/mern1",
   "jwtSecret": "sl_myJwtSecret"
 }
